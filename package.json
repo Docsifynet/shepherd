@@ -11,8 +11,7 @@
     "Geoff Daigle <geoffreydaigle@gmail.com>"
   ],
   "scripts": {
-    "build": "gulp clean && gulp build",
-    "postinstall": "bower install"
+    "build": "gulp clean && gulp build"
   },
   "license": "MIT",
   "main": "dist/js/shepherd.js",
